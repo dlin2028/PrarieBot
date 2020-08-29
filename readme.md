@@ -4,7 +4,8 @@ Use the following formatting:
 ```xml
 <Classes>
   <class Id="" username="" password="" calendarId=""/>
-</Classes>```
+</Classes>
+```
 
 Id is the numerical class Id, which can be found in the url when viewing the class
 username/password are the UIUC netid credentials
